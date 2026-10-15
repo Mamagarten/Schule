@@ -2,7 +2,9 @@
 All about Schule: Klassengeld, Vocab apps, and other tools to facilitate school purposes.
 
 # Klassengeld App
-
+- Logs with hashed user ID
+- UI for class members
+- UI for admin
 
 # Vocab app
 Google Spreadsheet based vocab trainer.
